@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/swordream/swordream.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### MarkBase
+An easy-to-use personal knowledge management uwp application based on markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+简单易用的 Markdown 个人知识管理软件
 
-### Markdown
+![Focus on writing](http://p77t6gf17.bkt.gdipper.com/images/2018/Write.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Features
 
-```markdown
-Syntax highlighted code block
+- CommonMark compliant markdown parser	
+- Paste from html	
+- Single file data storage	
+- Tree structure data management	
+- Password protection using DES (AES) cryptography
+- Easy UI and editing
+- Read mode
+- Unicode emoji support
+- Scroll sync between edit and preview
+- Diagrams support by	[mermaid](https://mermaidjs.github.io/)
+- Mathematics support by [MathJax](https://www.mathjax.org/)
+- Html preview side by side
+- PDF generation	
+- Customizable edit and preview style
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 主要特性
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swordream/swordream.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- CommonMark 兼容的 Markdown 解析	
+- 可从 HTML 直接复制，自动转化为 Markdown	
+- 单文件存储	
+- 树状结构数据管理	
+- 基于 DES (AES)  加密的密码保护
+- 简单易用的用户界面和编辑器
+- 阅读模式
+- Unicode 表情支持
+- 编辑预览同步滚动
+- 支持图表 [mermaid](https://mermaidjs.github.io/)
+- 支持数学公式 [MathJax](https://www.mathjax.org/)
+- 实时预览效果	
+- Pdf 生成
